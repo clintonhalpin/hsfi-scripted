@@ -1,5 +1,5 @@
-# boilerplate-hjs-webpack
-React, ES6, Webpack setup damn.
+# hsfi-scripted
+Class Site for the High School of Fashion Industries 15-16' semester
 
 # get started
 ```
@@ -10,7 +10,3 @@ npm run start
 Open ```http://localhost:3000```
 
 built by [@clintonhalpin](http://twitter.com/clintonhalpin)
-
-=
-
-stolen from [hjs-webpack](https://github.com/HenrikJoreteg/hjs-webpack)
