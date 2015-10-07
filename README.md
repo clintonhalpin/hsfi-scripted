@@ -5,7 +5,7 @@ Class Site for the High School of Fashion Industries 15-16' semester
 - [Sessions](Materials/Sessions.md)
 - [Resources](Materials/Resources.md)
 - [Faq](Materials/Faq.md)
-- [Instructors](Materials/Instructors.md]
+- [Instructors](Materials/Instructors.md)
 
 # making updates
 You can make updates to the contents of this site in the `Materials` folder. Right now you need to run webpack in order to push it live!
