@@ -1,8 +1,8 @@
-var getConfig = require('hjs-webpack')
+var getConfig = require('hjs-webpack');
 
 var config = getConfig({
     in: 'src/',
-    out: 'examples/',
+    out: 'dist/',
     clearBeforeBuild: true,
     html: function (context) {
         context.relative = true;
