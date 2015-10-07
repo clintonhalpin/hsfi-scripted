@@ -10,7 +10,7 @@ Class Site for the High School of Fashion Industries 15-16' semester
 - [Instructors](Materials/Instructors.md)
 
 # making updates
-This project is automatically deployed using (Travis CI)[https://travis-ci.org], You should be able to edit Markdown files in the `Materials` folder. When you push to master it will automatically be pushed to gh-pages.
+This project is automatically deployed using [Travis CI](https://travis-ci.org), You should be able to edit Markdown files in the `Materials` folder. When you push to master it will automatically be pushed to gh-pages.
 
 # get started
 
