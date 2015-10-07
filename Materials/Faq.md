@@ -1,3 +1,3 @@
 # FAQ
 
-- [Testing]
+- [Deploying with Travis!]
