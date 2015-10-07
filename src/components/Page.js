@@ -1,10 +1,10 @@
 import React from 'react';
 import { Link } from 'react-router';
 import Marked from './Marked';
-import Sessions from './../../Sessions.md';
-import Faq from './../../Faq.md';
-import Resources from './../../Resources.md';
-import Instructors from './../../Instructors.md';
+import Sessions from './../../Materials/Sessions.md';
+import Faq from './../../Materials/Faq.md';
+import Resources from './../../Materials/Resources.md';
+import Instructors from './../../Materials/Instructors.md';
 
 export default class Main extends React.Component{
   render () {
