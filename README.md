@@ -1,5 +1,6 @@
 # hsfi-scripted
 <img src="https://travis-ci.org/clintonhalpin/hsfi-scripted.svg" alt="build-status">
+
 Class Site for the High School of Fashion Industries 15-16' semester
 
 # class materials
@@ -9,7 +10,7 @@ Class Site for the High School of Fashion Industries 15-16' semester
 - [Instructors](Materials/Instructors.md)
 
 # making updates
-You can make updates to the contents of this site in the `Materials` folder. Right now you need to run webpack in order to push it live!
+This project is automatically deployed using (Travis CI)[https://travis-ci.org], You should be able to edit Markdown files in the `Materials` folder. When you push to master it will automatically be pushed to gh-pages.
 
 # get started
 
