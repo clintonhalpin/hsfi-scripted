@@ -7,6 +7,7 @@ mkdir dist;
 
 # build
 npm run build
+cp CNAME dist/CNAME
 
 # deploy
 # go to the out directory and create a *new* Git repo
