@@ -16,7 +16,7 @@ export default class Main extends React.Component{
 		        	<p>2015</p>
 		      	</div>
 		    </div>
-	      	<div className="container py1 px2" style={{ 'paddingBottom': '4rem' }}>
+	      	<div className="container py1 px2" style={{ 'paddingBottom': '1rem' }}>
 	      		<Marked content={Sessions} />
 	      		<Marked content={Faq} />
 	      		<Marked content={Resources} />
