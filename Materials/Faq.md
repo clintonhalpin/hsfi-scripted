@@ -1,3 +1,3 @@
 # FAQ
 
-- [Testing Travis]
+- [Testing]
