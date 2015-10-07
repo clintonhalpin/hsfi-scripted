@@ -8,4 +8,4 @@
 ### Session 1 - 10/5/15
 
 - Slides: [link](https://docs.google.com/presentation/d/1s_aEoJJpPpelKYorV6NHgUR1epEHPsl6at5reUI1WgE/edit)
-- Notes: Had students sign-up for Github and JSBin Accounts!
+- Notes: Had students sign-up for [Github](http://github.com) and [JSBin](http://jsbin.com) accounts!
