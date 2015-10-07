@@ -49,7 +49,7 @@
   "scripts": {
     "prestart": "webpack",
     "start": "webpack-dev-server",
-    "build": "webpack",
+    "build": "webpack -p",
     "gh-pages": "git subtree push -P dist origin gh-pages"
   }
 }
