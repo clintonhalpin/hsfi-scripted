@@ -50,6 +50,7 @@
     "prestart": "webpack",
     "start": "webpack-dev-server",
     "build": "webpack -p",
+    "postbuild "cp CNAME dist/CNAME",
     "gh-pages": "git subtree push -P dist origin gh-pages"
   }
 }
