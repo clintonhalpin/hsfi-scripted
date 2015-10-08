@@ -1,5 +1,5 @@
 # hsfi-scripted
-<img src="https://travis-ci.org/clintonhalpin/hsfi-scripted.svg" alt="build-status">
+[![Build Status](https://travis-ci.org/clintonhalpin/hsfi-scripted.svg?branch=master)](https://travis-ci.org/clintonhalpin/hsfi-scripted)
 
 [View Site](http://hsfi-scripted.xyz/)
 
