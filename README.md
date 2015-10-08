@@ -1,5 +1,6 @@
 # hsfi-scripted
 <img src="https://travis-ci.org/clintonhalpin/hsfi-scripted.svg" alt="build-status">
+
 [View Site](http://hsfi-scripted.xyz/)
 
 Class Site for the High School of Fashion Industries 15-16' semester
