@@ -18,6 +18,7 @@ export default class Main extends React.Component{
 		    </div>
 	      	<div className="container py1 px2" style={{ 'paddingBottom': '1rem' }}>
 	      		<Marked content={Sessions} />
+	      		<Marked content={Faq} />
 	      		<Marked content={Resources} />
 	      		<Marked content={Instructors} />
 	      	</div>
