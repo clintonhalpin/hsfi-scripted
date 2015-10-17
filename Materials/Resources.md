@@ -1,5 +1,4 @@
 # Resources
-
 ### Blogs
 - [CSS Tricks](http://css-tricks.com)
 - [Codrops](http://tympanus.net/codrops/)
