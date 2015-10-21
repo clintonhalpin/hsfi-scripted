@@ -1,6 +1,6 @@
 # Sessions
-https://docs.google.com/document/d/14D90gXM1kYLqWc9mSkeuJKB6juZiH6iR3dc0n62NkCk/edit?usp=sharing
-### Session 3 - 10/19/15
+
+### Session 4 - 10/21/15
 Developer Tools
 
 - Slides: No Slides
