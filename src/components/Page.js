@@ -12,7 +12,7 @@ export default class Main extends React.Component{
     	<div>
 	    	<div className="p2 bg-fuchsia">
 		    	<div className="container py4 white">
-		        	<h1>High School of Fashion Industries + Scripted</h1>
+		        	<h1>High School of Fashion Industries + ScriptEd</h1>
 		        	<p>2015</p>
 		      	</div>
 		    </div>
